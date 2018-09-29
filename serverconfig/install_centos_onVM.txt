@@ -1,0 +1,18 @@
+**** steps followed to install centos on vmware ****
+
+1. Download latest centos iso file from the official website.
+website : https://www.centos.org/download/
+
+2. Open vmware, click on create new virtual machine and select the iso file downloaded.
+
+3. Select the memory to be allocated for centos virtual machine. ( min prefered is 20GB )
+
+4. Select Date and time and other configurations as per your requirement
+
+5. Set root password and if required create new user.
+NOTE : While following the process you will see the options for these.
+
+After few minutes you will have your centos setup.
+
+
+ 
